@@ -179,7 +179,7 @@ Confira outros projetos acadêmicos e pessoais no meu GitHub.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MateusMunizz/MateusMunizz/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/MateusMunizz/MateusMunizz/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </div>
 
