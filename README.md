@@ -4,7 +4,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Mateus%20Muniz&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn&color=0:09090B,100:27272A" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+projetos+e+evoluindo+todos+os+dias)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+projetos+e+evoluindo+todos+os+dias" alt="Typing SVG"/>
+  </a>
+</p>
 
 ---
 
@@ -51,8 +55,6 @@ Meu foco é continuar evoluindo tecnicamente, construir projetos cada vez mais c
 
 # Projetos
 
-Alguns dos projetos que venho desenvolvendo:
-
 <table>
 <tr>
 
@@ -60,7 +62,7 @@ Alguns dos projetos que venho desenvolvendo:
 
 ### 🎬 MunizCine
 
-Aplicação web desenvolvida com React, voltada para exploração e apresentação de filmes.
+Aplicação web desenvolvida com React para exploração e apresentação de filmes.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -77,7 +79,7 @@ Aplicação web desenvolvida com React, voltada para exploração e apresentaç�
 
 ### 🛒 Muniz Store
 
-Projeto de e-commerce desenvolvido para praticar construção de interfaces, organização de componentes e desenvolvimento web.
+Projeto de e-commerce desenvolvido para praticar construção de interfaces e desenvolvimento web.
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -85,7 +87,7 @@ Projeto de e-commerce desenvolvido para praticar construção de interfaces, org
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
 </p>
 
-<a href="https://github.com/MateusMunizz/muniz-store">
+<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_DA_MUNIZ_STORE">
   <img src="https://img.shields.io/badge/Ver%20projeto-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -106,7 +108,7 @@ Sistema desenvolvido para gerenciamento de funcionários, aplicando conceitos de
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-<a href="https://github.com/MateusMunizz/gestao-funcionarios">
+<a href="COLOQUE_AQUI_O_LINK_DO_REPOSITORIO_DO_SISTEMA">
   <img src="https://img.shields.io/badge/Ver%20projeto-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -114,12 +116,14 @@ Sistema desenvolvido para gerenciamento de funcionários, aplicando conceitos de
 
 <td width="50%" valign="top">
 
-### 🎧 Outros projetos
+### 💻 Mais projetos
 
-Também venho desenvolvendo projetos acadêmicos e pessoais envolvendo desenvolvimento web, Java, banco de dados e interfaces.
+Confira outros projetos acadêmicos e pessoais no meu GitHub.
+
+<br>
 
 <a href="https://github.com/MateusMunizz?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ver%20repositórios-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -133,9 +137,9 @@ Também venho desenvolvendo projetos acadêmicos e pessoais envolvendo desenvolv
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MateusMunizz&show_icons=true&count_private=true&hide_border=true&bg_color=09090B&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&locale=pt-br"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MateusMunizz&show_icons=true&hide_border=true&theme=dark&locale=pt-br" height="180"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMunizz&layout=compact&hide_border=true&bg_color=09090B&title_color=FFFFFF&text_color=A1A1AA&locale=pt-br"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusMunizz&layout=compact&hide_border=true&theme=dark&locale=pt-br" height="180"/>
 
 </div>
 
@@ -145,7 +149,7 @@ Também venho desenvolvendo projetos acadêmicos e pessoais envolvendo desenvolv
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MateusMunizz&hide_border=true&background=09090B&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=MateusMunizz&theme=dark&hide_border=true" />
 
 </div>
 
@@ -155,7 +159,7 @@ Também venho desenvolvendo projetos acadêmicos e pessoais envolvendo desenvolv
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusMunizz&bg_color=09090B&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusMunizz&theme=github-dark&hide_border=true" width="95%"/>
 
 </div>
 
@@ -181,16 +185,16 @@ Também venho desenvolvendo projetos acadêmicos e pessoais envolvendo desenvolv
 
 ---
 
-# Vamos conversar
+# Redes sociais
 
 <p align="left">
 
 <a href="https://github.com/MateusMunizz">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mateusfmuniz/">
-<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -206,18 +210,3 @@ Também venho desenvolvendo projetos acadêmicos e pessoais envolvendo desenvolv
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:27272A,100:09090B"/>
 
 </div>
-
-<!--
-**MateusMunizz/MateusMunizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
